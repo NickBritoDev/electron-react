@@ -29,8 +29,8 @@ module.exports = {
       name: '@electron-forge/publisher-github',
       config: {
         repository: {
-          owner: 'gmvb-dev',
-          name: 'whadesk',
+          owner: 'NickBritoDev',
+          name: 'electron-react',
         },
         prerelease: false,
       },
